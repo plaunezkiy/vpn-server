@@ -11,7 +11,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Etc/UTC
-      - SERVERURL=your.server.ip.or.domain
+      - SERVERURL=209.38.34.225
       - SERVERPORT=51820
       - PEERS=1
       - PEERDNS=1.1.1.1
